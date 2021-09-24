@@ -1,2 +1,2 @@
 # hello-world
-green hand
+My name is LuQi,I want to study programming
